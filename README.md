@@ -48,7 +48,7 @@ Our Statement of Fact Analyzer leverages artificial intelligence to extract crit
 
 ### Clone the Repository
 
-git clone https://github.com/priyanshubora/Statement-Of-Fact-Analyzer.git
+git clone https://github.com/RohanNautiyal/Statement_Of_Fact_Analyzer.git
 
 #### Navigate to the project directory
 cd Statement-Of-Fact-Analyzer
